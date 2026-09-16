@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6C5CE7</item>
+        <item name="colorPrimaryVariant">#4834D4</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00CEC9</item>
+        <item name="android:statusBarColor">#4834D4</item>
+    </style>
+</resources>
